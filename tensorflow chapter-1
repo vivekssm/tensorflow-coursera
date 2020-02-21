@@ -1,3 +1,8 @@
+can access original file at
+https://github.com/lmoroney/dlaicourse/blob/master/Course%201%20-%20Part%202%20-%20Lesson%202%20-%20Notebook.ipynb
+
+
+
 The Hello World of Deep Learning with Neural Networks
 Like every first app you should start with something super simple that shows the overall scaffolding for how your code works.
 In the case of creating neural networks, the sample I like to use is one where it learns the relationship between two numbers. 
